@@ -1,0 +1,11 @@
+Título do projeto: Modelagem de Conversão e Risco em Seguros Usando Dados de Comportamento do Cliente 
+
+Autora: Olga Abramova
+
+
+O conjunto de dados foi dividido em 3 tabelas: dados_do_cliente (customer_data), dados_da_apólice (policy_data) e dados_de_sinistros (claims_data).
+
+A chave primária para dados_do_cliente (customer_data) é Customer_ID.
+
+A chave primária para dados_da_apólice (policy_data) é Policy_ID. A chave estrangeira é Customer_ID.
+
