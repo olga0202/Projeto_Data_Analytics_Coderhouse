@@ -9,3 +9,4 @@ A chave primária para dados_do_cliente (customer_data) é Customer_ID.
 
 A chave primária para dados_da_apólice (policy_data) é Policy_ID. A chave estrangeira é Customer_ID.
 
+A chave primária para dados_de_sinistros (claims_data) é Claims_ID. A chave estrangeira é Customer_ID.
